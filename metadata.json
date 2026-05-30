@@ -1,0 +1,6 @@
+{
+  "name": "Hardware Abstraction System",
+  "description": "An autonomous, self-modifying Hardware Abstraction and Management System featuring deep host introspection, dynamic simulated driver generation, and an active fail-safe supervisor daemon with Gemini API healing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
